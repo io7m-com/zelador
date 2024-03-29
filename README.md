@@ -2,10 +2,10 @@ zelador
 ===
 
 [![Maven Central](https://img.shields.io/maven-central/v/com.io7m.zelador/com.io7m.zelador.svg?style=flat-square)](http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22com.io7m.zelador%22)
-[![Maven Central (snapshot)](https://img.shields.io/nexus/s/https/s01.oss.sonatype.org/com.io7m.zelador/com.io7m.zelador.svg?style=flat-square)](https://s01.oss.sonatype.org/content/repositories/snapshots/com/io7m/zelador/)
+[![Maven Central (snapshot)](https://img.shields.io/nexus/s/com.io7m.zelador/com.io7m.zelador?server=https%3A%2F%2Fs01.oss.sonatype.org&style=flat-square)](https://s01.oss.sonatype.org/content/repositories/snapshots/com/io7m/zelador/)
 [![Codecov](https://img.shields.io/codecov/c/github/io7m/zelador.svg?style=flat-square)](https://codecov.io/gh/io7m/zelador)
 
-![zelador](./src/site/resources/zelador.jpg?raw=true)
+![com.io7m.zelador](./src/site/resources/zelador.jpg?raw=true)
 
 | JVM | Platform | Status |
 |-----|----------|--------|
