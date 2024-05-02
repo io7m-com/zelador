@@ -9,14 +9,14 @@
   <parent>
     <artifactId>com.io7m.zelador</artifactId>
     <groupId>com.io7m.zelador</groupId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>1.0.0-SNAPSHOT</version>
   </parent>
   <artifactId>com.io7m.zelador.test_extension</artifactId>
 
   <packaging>jar</packaging>
   <name>com.io7m.zelador.test_extension</name>
   <description>JUnit 5 cleaning service (Test extension)</description>
-  <url>https://www.github.com/io7m/zelador</url>
+  <url>https://www.io7m.com/software/zelador</url>
 
   <dependencies>
     <dependency>
