@@ -26,10 +26,11 @@
   </modules>
 
   <properties>
-    <com.io7m.quarrel.version>1.6.1</com.io7m.quarrel.version>
-    <com.io7m.xstructural.version>1.8.0</com.io7m.xstructural.version>
+    <!-- Configuration. -->
     <io7m.api.previousVersion>0.0.2-SNAPSHOT</io7m.api.previousVersion>
     <io7m.java.targetJavaVersion>21</io7m.java.targetJavaVersion>
+
+    <!-- Third-party dependencies. -->
     <jqwik.version>1.8.4</jqwik.version>
     <junit.version>5.10.2</junit.version>
   </properties>
@@ -151,23 +152,6 @@
         <groupId>net.jqwik</groupId>
         <artifactId>jqwik-engine</artifactId>
         <version>${jqwik.version}</version>
-      </dependency>
-
-      <!-- CLI -->
-      <dependency>
-        <groupId>com.io7m.quarrel</groupId>
-        <artifactId>com.io7m.quarrel.core</artifactId>
-        <version>${com.io7m.quarrel.version}</version>
-      </dependency>
-      <dependency>
-        <groupId>com.io7m.quarrel</groupId>
-        <artifactId>com.io7m.quarrel.ext.logback</artifactId>
-        <version>${com.io7m.quarrel.version}</version>
-      </dependency>
-      <dependency>
-        <groupId>com.io7m.quarrel</groupId>
-        <artifactId>com.io7m.quarrel.ext.xstructural</artifactId>
-        <version>${com.io7m.quarrel.version}</version>
       </dependency>
     </dependencies>
   </dependencyManagement>
