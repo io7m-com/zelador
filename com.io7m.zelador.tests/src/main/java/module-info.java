@@ -31,6 +31,7 @@ open module com.io7m.zelador.tests
   requires org.junit.jupiter.engine;
   requires org.junit.platform.commons;
   requires org.junit.platform.engine;
+  requires org.junit.platform.launcher;
 
   exports com.io7m.zelador.tests;
 }
